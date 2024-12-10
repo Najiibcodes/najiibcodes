@@ -27,7 +27,7 @@ In this GitHub, you will find:
 
 ### 🔥 **Featured Project**
 
-#### [**End-to-End ECS Deployment with Terraform 🚀**](https://github.com/Najiibcodes/ecsproject)
+#### [**End-to-End ECS Deployment with Terraform 🚀**](https://github.com/Najiibcodes/tm-app)
 
 An enterprise-ready application deployed on AWS ECS using Terraform and CI/CD pipelines.
 
